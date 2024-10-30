@@ -1,0 +1,15 @@
+/Users/onni/Documents/GitHub/paivakirjasovellus/paivakirjasovellus/bin/Debug/net8.0/paivakirjasovellus
+/Users/onni/Documents/GitHub/paivakirjasovellus/paivakirjasovellus/bin/Debug/net8.0/paivakirjasovellus.deps.json
+/Users/onni/Documents/GitHub/paivakirjasovellus/paivakirjasovellus/bin/Debug/net8.0/paivakirjasovellus.runtimeconfig.json
+/Users/onni/Documents/GitHub/paivakirjasovellus/paivakirjasovellus/bin/Debug/net8.0/paivakirjasovellus.dll
+/Users/onni/Documents/GitHub/paivakirjasovellus/paivakirjasovellus/bin/Debug/net8.0/paivakirjasovellus.pdb
+/Users/onni/Documents/GitHub/paivakirjasovellus/paivakirjasovellus/obj/Debug/net8.0/paivakirjasovellus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onni/Documents/GitHub/paivakirjasovellus/paivakirjasovellus/obj/Debug/net8.0/paivakirjasovellus.AssemblyInfoInputs.cache
+/Users/onni/Documents/GitHub/paivakirjasovellus/paivakirjasovellus/obj/Debug/net8.0/paivakirjasovellus.AssemblyInfo.cs
+/Users/onni/Documents/GitHub/paivakirjasovellus/paivakirjasovellus/obj/Debug/net8.0/paivakirjasovellus.csproj.CoreCompileInputs.cache
+/Users/onni/Documents/GitHub/paivakirjasovellus/paivakirjasovellus/obj/Debug/net8.0/paivakirjasovellus.sourcelink.json
+/Users/onni/Documents/GitHub/paivakirjasovellus/paivakirjasovellus/obj/Debug/net8.0/paivakirjasovellus.dll
+/Users/onni/Documents/GitHub/paivakirjasovellus/paivakirjasovellus/obj/Debug/net8.0/refint/paivakirjasovellus.dll
+/Users/onni/Documents/GitHub/paivakirjasovellus/paivakirjasovellus/obj/Debug/net8.0/paivakirjasovellus.pdb
+/Users/onni/Documents/GitHub/paivakirjasovellus/paivakirjasovellus/obj/Debug/net8.0/paivakirjasovellus.genruntimeconfig.cache
+/Users/onni/Documents/GitHub/paivakirjasovellus/paivakirjasovellus/obj/Debug/net8.0/ref/paivakirjasovellus.dll
